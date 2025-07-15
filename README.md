@@ -1,13 +1,17 @@
-<h1 align="center">🦇 Olá! Eu sou Giseli Matos</h1>
+<h1 align="center">👽 Olá! Eu sou Giseli Matos.</h1>
 
 </div>
 <p align="center">
-  <i>Desenvolvedor Backend | Estudante de Sistemas da Informação | Entusiasta em Cybersegurança</i>
+  <i>Estudante de ADS | Desenvolvedora em formação | Focada em Front-end & Back-End</i>
 </p>
 
 ## 👨‍💻 Sobre mim
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Olá mundo! Me chamo Giseli Matos, tenho 21 anos e moro em Pato Branco - PR. Atualmente trabalho como desenvolvedora de sites em WordPress e faço gestão de tráfego pago. 
+
+Sou estudante de Análise e Desenvolvimento de Sistemas na UTFPR e apaixonada por transformar ideias em soluções digitais que facilitem o dia a dia de pessoas e empresas.
+
+Busco atuar em projetos e equipes que desafiem minha criatividade, expandam minhas habilidades em desenvolvimento e me ajudem a trilhar um caminho sólido rumo à área de tecnologia — sempre com muita vontade de aprender e crescer junto.
 
 ## 🚀 Tecnologias & Ferramentas
 <br>
@@ -41,11 +45,19 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ## 📱 Conecte-se comigo
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  <a href="https://www.linkedin.com/in/giseli-matos/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="instagram.com/gisamtos_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:giseli3690@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me/5546999820356" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
 </div>
 <br><br>
-✨ _"A tecnologia move o mundo, mas quem a move são os curiosos."_ ✨
+✨ _"Se você quer evoluir, deve forçar a mudança."_ ✨
 
